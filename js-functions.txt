@@ -1,0 +1,8 @@
+map -> to copy contents of a array with some modification to other array
+reduce -> to return a single value after traversing array
+filter-> return array elements which satisfy some condition
+sort-> to sort array based on condition inside callbck function and it modifies the original array
+reverse-> modifies existing array and also returns a new array
+concat-> adds an array to the end of other array and returns new array
+split-> to split string into array based on a delimiter
+join-> to join elements of array into a single statement by adding a keyword to each array element
